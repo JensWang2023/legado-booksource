@@ -1,0 +1,32 @@
+[
+  {
+    "bookSourceName": "RSS订阅",
+    "bookSourceUrl": "https://www.scmp.com/rss/91/feed/",
+    "bookSourceType": 0,
+    "bookSourceGroup": "RSS",
+    "bookSourceRule": {
+      "searchUrl": "https://www.scmp.com/rss/91/feed/",
+      "searchEncoding": "utf-8",
+      "searchList": "item",
+      "searchName": "title",
+      "searchAuthor": "",
+      "searchKind": "",
+      "searchLastChapter": "",
+      "searchCoverUrl": "",
+      "searchIntroduce": "description",
+      "searchBookUrl": "link",
+      "exploreUrl": "https://www.scmp.com/rss/91/feed/",
+      "exploreEncoding": "utf-8",
+      "exploreList": "item",
+      "exploreName": "title",
+      "exploreAuthor": "",
+      "exploreKind": "",
+      "exploreLastChapter": "",
+      "exploreCoverUrl": "",
+      "exploreIntroduce": "description",
+      "exploreBookUrl": "link"
+    },
+    "customOrder": 1,
+    "enabled": true
+  }
+]
